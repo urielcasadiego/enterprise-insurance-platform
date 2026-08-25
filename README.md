@@ -4,6 +4,8 @@ Aplicación web de **SLU Underwriters** para la gestión del ciclo de suscripci�
 
 Está construida con Vue 2 y se comunica con la API SLU mediante GraphQL.
 
+> El código fuente de producción es privado. Este repositorio contiene únicamente documentación del portafolio, diagramas de arquitectura y ejemplos depurados.
+
 ## Tecnología
 
 - Vue 2.7, Vue Router 3 y Vuex 3.
